@@ -8,7 +8,7 @@ void main() {
   Stripe.publishableKey =
       'pk_test_51MFxK5J3a91UpOsqB4fxPoj1Nqr8okqKAJG6f4zD5o7paPrNFa3FK6xd3X6kfVk0DwnbpR3D0YvfCcRT4cZ9xb2t00MvIxAicG'; 
   runApp(GetMaterialApp(
-    title: 'Train Booking',
+    title: 'VIS',
     initialRoute: '/',
     //fade in transition
     transitionDuration: const Duration(milliseconds: 500),
